@@ -5,13 +5,13 @@ alert("Test");
 // 2. Add four names to the array.
 // 3. Print the array
 
-// let folksNames=["Jerry","Kamille","Marcus","Marvin"];
+let folksNames=["Jerry","Kamille","Marcus","Marvin"];
 // function alertNames(namesInIrray)
 
-// console.log(folksNames[0]);
-// console.log(folksNames[1]);
-// console.log(folksNames[2]);
-// console.log(folksNames[3]);
+console.log(folksNames[0]);
+console.log(folksNames[1]);
+console.log(folksNames[2]);
+console.log(folksNames[3]);
 
 
 
@@ -22,12 +22,12 @@ alert("Test");
 // 1. Create an array with 5 numbers in it.
 // 2. Print the numbers.
 
-// let theNumbers=[10,20,30,40,50];
-// console.log(theNumbers[0]);
-// console.log(theNumbers[1]);
-// console.log(theNumbers[2]);
-// console.log(theNumbers[3]);
-// console.log(theNumbers[4]);
+let theNumbers=[10,20,30,40,50];
+console.log(theNumbers[0]);
+console.log(theNumbers[1]);
+console.log(theNumbers[2]);
+console.log(theNumbers[3]);
+console.log(theNumbers[4]);
 
 
 //
